@@ -36,7 +36,7 @@ Also, the items are listed in no particular order. You don't need to learn every
 ## **5. Learn Framework(Web Development)**
    -  Synchronous Framework
          - Django, Flask, Pyramid
-   -  Asynchrnous Framework
+   -  Asynchrnous Framework[https://geekflare.com/python-asynchronous-web-frameworks/]
          - Tornado, Sanic, aiohttp, gevent
          
  ## **6. Desktop Applications**
