@@ -4,7 +4,7 @@ Folks, Here are 10 important things to deep-dive into Python Developer Role!
 
 Also, the items are listed in no particular order. You don't need to learn everything listed here, however knowing what you don't know is as important as knowing things.
 
-## **1. Learn the basics**
+## **1. Learn the basics** 
   * Basic syntax
   * Variable and data types
   * Conditionals
@@ -20,10 +20,14 @@ Also, the items are listed in no particular order. You don't need to learn every
   * Lambdas
   * Modules
   * Iterators
-  
-## **3. Version Control Systems**
-   * Basic Git Usage
-   * Repo Hosting Services(GitHub, GitLab, BitBucket)
+  #### Links To Refer
+   - https://docs.python.org/3/tutorial/
+   - https://www.programiz.com/python-programming
+   - https://www.tutorialspoint.com/python/index.htm
+   
+## **3. Version Control Systems** [https://www.atlassian.com/git/tutorials/what-is-version-control]
+   * Basic Git Usage [https://www.atlassian.com/git/tutorials/what-is-git]
+   * Repo Hosting Services(GitHub, GitLab, BitBucket)[https://www.atlassian.com/git/glossary]
 
 ## **4. Package Managers**
  * PyPI
